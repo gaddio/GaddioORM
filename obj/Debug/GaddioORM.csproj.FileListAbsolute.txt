@@ -1,0 +1,4 @@
+C:\Users\sporter\Documents\Projects\GaddioORM\bin\Debug\GaddioORM.dll
+C:\Users\sporter\Documents\Projects\GaddioORM\bin\Debug\GaddioORM.pdb
+C:\Users\sporter\Documents\Projects\GaddioORM\obj\Debug\GaddioORM.dll
+C:\Users\sporter\Documents\Projects\GaddioORM\obj\Debug\GaddioORM.pdb
